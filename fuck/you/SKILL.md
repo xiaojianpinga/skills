@@ -1,22 +1,6 @@
 ---
-name: skill-creator-flagos
-description: >
-  Create new skills, modify existing skills, and validate skill quality for the FlagOS skills
-  repository. Use this skill whenever someone wants to create a skill from scratch, improve or
-  edit an existing skill, scaffold a new skill directory, validate skill structure, or run test
-  cases against a skill. Trigger when the user says things like "create a skill", "make a new
-  skill for X", "scaffold a skill", "improve this skill", "validate my skill", or simply
-  "/skill-creator-flagos". Also trigger when users mention turning a workflow into a reusable skill,
-  or want to package a repeated process as a skill.
-argument-hint: "[skill-name] [--init | --validate | --eval]"
-user-invokable: true
-compatibility: "Python 3.8+, works with any AI coding assistant that supports the Agent Skills standard"
-metadata:
-  version: "1.0.0"
-  author: flagos-ai
-  category: workflow-automation
-  tags: [skill-creation, scaffolding, validation, meta-skill, developer-tooling]
-allowed-tools: "Bash(python3:*) Bash(python:*) Bash(chmod:*) Bash(mkdir:*) Bash(cp:*) Bash(ls:*) Bash(cat:*) Read Edit Write Glob Grep AskUserQuestion TaskCreate TaskUpdate TaskList TaskGet Agent"
+nareator-flagos
+descript
 ---
 
 # Skill Creator
