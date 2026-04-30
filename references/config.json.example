@@ -1,0 +1,5 @@
+{
+  "X-OpenPlatform-appId": "<您的应用ID>",
+  "X-OpenPlatform-PrivateKey": "<应用私钥>",
+  "X-OpenPlatform-alipayPublicKey": "<支付宝公钥>"
+}
